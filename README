@@ -1,0 +1,8 @@
+Initial System Setup
+
+
+
+Step 1: Change directory to vim_setup
+Step 2: run ./setup.sh
+Step 3: Open "vim" and Run ":PluginInstall" command
+
